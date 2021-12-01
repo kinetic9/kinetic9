@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic9)](https://github.com/kinetic9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic9&layout=compact)](https://github.com/kinetic9/github-readme-stats)
 
 
 <!--
