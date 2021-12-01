@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Bongani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinetic9&show_icons=true&theme=radical)](https://github.com/kinetic9/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic9&layout=compact)](https://github.com/kinetic9/github-readme-stats)
 
 [![Bongani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kinetic9)](https://github.com/kinetic9/github-readme-stats)
