@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+[![wakatime](https://wakatime.com/badge/user/cad34b32-7734-4852-a424-d215b3c6d192.svg)](https://wakatime.com/@cad34b32-7734-4852-a424-d215b3c6d192)
+
 [![Bongani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinetic9&show_icons=true&theme=radical)](https://github.com/kinetic9/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic9&layout=compact)](https://github.com/kinetic9/github-readme-stats)
