@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,debian,figma,firebase,gcp,git,ai,laravel,mongodb,nuxtjs,nodejs,py,react,redux,tailwind,ts,vue,xd,aws)](https://skillicons.dev)
 
-[![Bongani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinetic9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bongani's GitHub stats](https://github-readme-stats-git-main-kinetic9s-projects.vercel.app/api?username=kinetic9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic9&layout=compact)](https://github.com/kinetic9/github-readme-stats)
 
